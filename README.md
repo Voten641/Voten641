@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[<img src="https://img.shields.io/badge/voten%236969-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />](https://discord.com/)
+<img src="https://img.shields.io/badge/voten%236969-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />(https://discord.com/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
