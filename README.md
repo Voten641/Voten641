@@ -14,9 +14,10 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-[<img src="https://img.shields.io/badge/bukkit%20-%23DB1F29.svg?&style=for-the-badge&logo=mojang-studios&logoColor=white" />](https://www.spigotmc.org/)
+[<img src="https://img.shields.io/badge/bukkit%20-%231364B5.svg?&style=for-the-badge&logo=mojang-studios&logoColor=white" />](https://dev.bukkit.org)
+[<img src="https://img.shields.io/badge/Spigot%20-%23ee8d1e.svg?&style=for-the-badge&logo=mojang-studios&logoColor=white" />](https://www.spigotmc.org/)
 [<img src="https://img.shields.io/badge/bungeecord%20-%23DB1F29.svg?&style=for-the-badge&logo=mojang-studios&logoColor=white" />](https://www.spigotmc.org/wiki/about-bungeecord/)
 [<img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />](https://www.mysql.com/)
 </br>
-[<img src="https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipseide" />](https://www.eclipse.org/)
+[<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJIDEA" />](https://www.jetbrains.com/idea/)
 [<img src="https://img.shields.io/badge/-Arch%20Linux-000000?style=for-the-badge&logo=archlinux" />](https://archlinux.org/)
