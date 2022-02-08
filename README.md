@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://discord.com/invite/pkuuKMwtm9" target="blank"><img align="center" src="https://img.shields.io/badge/voten%236969-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Voten#6969"/></a>
+  <a href="https://discordapp.com/users/291308183928963092" target="blank"><img align="center" src="https://img.shields.io/badge/voten%236969-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Voten#0113"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
