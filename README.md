@@ -20,5 +20,5 @@
 [<img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />](https://www.mysql.com/)
 </br>
 [<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJIDEA" />](https://www.jetbrains.com/idea/)
-[<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=for-the-badge&logo=Visual-Studio" />](https://code.visualstudio.com)
+[<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual-Studio" />](https://code.visualstudio.com)
 [<img src="https://img.shields.io/badge/-Arch%20Linux-000000?style=for-the-badge&logo=archlinux" />](https://archlinux.org/)
