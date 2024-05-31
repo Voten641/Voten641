@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Voten641</h1>
-<h3 align="center">A Java Developer from Poland</h3>
+<h3 align="center">A BackEnd Developer from Poland</h3>
 
-- 🔭 I’m coding in **Bukkit and BungeCord**
+- 🔭 I’m coding in **Kotlin, React** and **Python**
 
 - 📫 How to reach me **voten641@gmail.com**
 
