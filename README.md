@@ -14,9 +14,9 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-[<img src="https://img.shields.io/badge/Kotlin-%231364B5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />](https://kotlinlang.org/)
+[<img src="https://img.shields.io/badge/Kotlin-90306a.svg?&style=for-the-badge&logo=kotlin" />](https://kotlinlang.org/)
 [<img src="https://img.shields.io/badge/-React%20Native-007ACC?style=for-the-badge&logo=React" />](https://reactnative.dev/)
-[<img src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python" />](https://www.python.org/)
+[<img src="https://img.shields.io/badge/Python-ffde57?style=for-the-badge&logo=python" />](https://www.python.org/)
 </br>
 [<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJIDEA" />](https://www.jetbrains.com/idea/)
 [<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual-Studio" />](https://code.visualstudio.com)
